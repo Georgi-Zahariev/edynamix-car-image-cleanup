@@ -6,3 +6,4 @@ Pillow
 matplotlib
 rembg
 segmentation-models-pytorch
+onnxruntime  
