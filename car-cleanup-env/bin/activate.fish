@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/georgizahariev/Desktop/eDynamix/edynamix-car-image-cleanup/car-cleanup-env"
+set -gx VIRTUAL_ENV "/Users/georgizahariev/Desktop/2025-2026/eDynamix/edynamix-car-image-cleanup/car-cleanup-env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

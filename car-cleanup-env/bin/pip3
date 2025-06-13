@@ -1,4 +1,4 @@
-#!/Users/georgizahariev/Desktop/eDynamix/edynamix-car-image-cleanup/car-cleanup-env/bin/python3.12
+#!/Users/georgizahariev/Desktop/2025-2026/eDynamix/edynamix-car-image-cleanup/car-cleanup-env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys

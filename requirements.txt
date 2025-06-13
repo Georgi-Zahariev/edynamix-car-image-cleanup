@@ -1,9 +1,4 @@
-torch
-torchvision
-opencv-python
-numpy
-Pillow
-matplotlib
 rembg
-segmentation-models-pytorch
-onnxruntime  
+pillow
+numpy
+opencv-python
